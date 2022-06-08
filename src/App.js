@@ -1,9 +1,10 @@
-
+import Navbar from './components/Navbar';
+import { ThemeProvider} from './context/ThemeContext'
 function App() {
   return (
-    <div className="">
-      <h1 className="text-red-500">Hello World</h1>
-    </div>
+    <ThemeProvider>
+      <Navbar/>
+    </ThemeProvider>
   );
 }
 

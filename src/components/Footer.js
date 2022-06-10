@@ -61,7 +61,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="text-center py-4">
-        Made thanks to <a href="https://www.coingecko.com/">Coin Gecko.</a>
+        Made with <a className="text-accent" href="http://https://www.coingecko.com/">Coin Gecko.</a>
       </p>
     </div>
   );

@@ -142,10 +142,10 @@ const CoinPage = () => {
 
           {/* SOCIAL ICONS */}
           <div className="flex justify-around p-8 text-accent">
-            <FaTwitter />
-            <FaFacebook />
-            <FaReddit />
-            <FaGithub />
+            <FaTwitter className="cursor-pointer" />
+            <FaFacebook className="cursor-pointer" />
+            <FaReddit className="cursor-pointer" />
+            <FaGithub className="cursor-pointer" />
           </div>
         </div>
       </div>

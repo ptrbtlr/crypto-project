@@ -49,12 +49,12 @@ const Footer = () => {
                   </button>
                 </form>
               </div>
-              <div className="flex py-4 justify-between text-accent cursor-pointer">
-                <AiOutlineInstagram />
-                <FaTiktok />
-                <FaTwitter />
-                <FaFacebook />
-                <FaGithub />
+              <div className="flex py-4 justify-between text-accent">
+                <AiOutlineInstagram className="cursor-pointer" />
+                <FaTiktok className="cursor-pointer" />
+                <FaTwitter className="cursor-pointer" />
+                <FaFacebook className="cursor-pointer" />
+                <FaGithub className="cursor-pointer" />
               </div>
             </div>
           </div>

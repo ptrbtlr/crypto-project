@@ -1,3 +1,9 @@
+# Live Site
+This site is hosted on Vercel, [here].(https://crypto-project-ko4o8qhvk-ciandevelops.vercel.app/)
+<p align="center">
+  <img src="https://i.ibb.co/Z2Tkg3F/Screen-Shot-2022-06-10-at-11-18-08.png" width="350">
+</p>
+
 # Project - Crypto Tracker
 This project was created with the : 
 
@@ -16,13 +22,6 @@ This project was created with the :
 [Dompurify](https://www.npmjs.com/package/dompurify)
 
 [Firebase](https://firebase.google.com/)
-
-
-# Live Site
-This site is hosted on Vercel, [here](https://crypto-project-ko4o8qhvk-ciandevelops.vercel.app/)
-<p align="center">
-  <img src="[https://ibb.co/fD0PNby](https://i.ibb.co/Z2Tkg3F/Screen-Shot-2022-06-10-at-11-18-08.png)" width="350">
-</p>
 
 # Getting Started with Create React App
 

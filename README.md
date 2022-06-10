@@ -1,16 +1,25 @@
 # Project - Crypto Tracker
 This project was created with the : 
+
 [Coin Gecko API](https://www.coingecko.com/en/api/documentation)
+
 [Tailwind](https://tailwindcss.com/docs/guides/create-react-app) - [CSS Grid](https://learncssgrid.com/) & [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 [React Router](https://reactrouter.com/docs/en/v6)
+
 [React Icons](https://react-icons.github.io/react-icons/)
+
 [Axios](https://axios-http.com/docs/intro)
+
 [React Sparklines](https://www.npmjs.com/package/react-sparklines)
+
 [Dompurify](https://www.npmjs.com/package/dompurify)
+
 [Firebase](https://firebase.google.com/)
 
+
 # Live Site
-This site is hosted on Vercel. [here](https://crypto-project-ko4o8qhvk-ciandevelops.vercel.app/)
+This site is hosted on Vercel, [here](https://crypto-project-ko4o8qhvk-ciandevelops.vercel.app/)
 <p align="center">
   <img src="[https://ibb.co/fD0PNby](https://i.ibb.co/Z2Tkg3F/Screen-Shot-2022-06-10-at-11-18-08.png)" width="350">
 </p>

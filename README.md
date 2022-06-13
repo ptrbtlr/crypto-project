@@ -5,7 +5,9 @@ This site is hosted on Vercel, [here.](https://crypto-project-ko4o8qhvk-ciandeve
 </p>
 
 # Project - Crypto Tracker
-This project was created with the : 
+This project was created with : 
+
+[React JS](https://reactjs.org/)
 
 [Coin Gecko API](https://www.coingecko.com/en/api/documentation)
 

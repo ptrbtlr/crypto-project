@@ -40,7 +40,7 @@ const SignIn = () => {
               <AiFillLock className='absolute right-2 top-3 text-gray-400'/>
             </div>
           </div>
-          <button className='w-full my-2 p-3 bg-button text-btnText rounded-2xl shadow-xl'>Sign in</button>
+          <button className='w-full my-2 p-3 bg-button text-btnText rounded-2xl shadow-xl'>Sign In</button>
         </form>
 
         <p className='my-4 text-center'>Don't have an account? <Link className='text-accent' to="/signup">Sign up!</Link></p>

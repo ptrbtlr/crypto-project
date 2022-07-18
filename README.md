@@ -1,11 +1,13 @@
 # Live Site
-This site is hosted on Vercel, [here].(https://crypto-project-ko4o8qhvk-ciandevelops.vercel.app/)
+This site is hosted on Vercel, [here.](https://crypto-project-ko4o8qhvk-ciandevelops.vercel.app/)
 <p align="center">
   <img src="https://i.ibb.co/Z2Tkg3F/Screen-Shot-2022-06-10-at-11-18-08.png" width="350">
 </p>
 
 # Project - Crypto Tracker
-This project was created with the : 
+This project was created with : 
+
+[React JS](https://reactjs.org/)
 
 [Coin Gecko API](https://www.coingecko.com/en/api/documentation)
 
